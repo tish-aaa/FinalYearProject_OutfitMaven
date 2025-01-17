@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "300461408631",
+    "project_id": "outfit-maven-app",
+    "storage_bucket": "outfit-maven-app.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:300461408631:android:746ee22e3f0061b4c9e172",
+        "android_client_info": {
+          "package_name": "com.tisha.outfitmaven"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQmR1_FLQeKksuKCp7ApZ8wd-SnzPzsX8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -10,8 +10,7 @@
     "newArchEnabled": true,
     "ios": {
       "supportsTablet": true,
-      "bundleIdentifier": "com.tisha.outfitmaven",
-      "googleServicesFile":"./GoogleService-Info.plist"
+      "bundleIdentifier": "com.tisha.outfitmaven"
     },
     "android": {
       "adaptiveIcon": {

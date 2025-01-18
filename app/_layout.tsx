@@ -1,7 +1,8 @@
-import auth, { FirebaseAuthTypes } from "@react-native-firebase/auth";
+import auth, { firebase, FirebaseAuthTypes } from "@react-native-firebase/auth";
 import { Stack, useRouter, useSegments } from "expo-router";
 import { useEffect, useState } from "react";
 import { ActivityIndicator, View } from "react-native";
+
 
 export default function RootLayout() {
   const [initializing, setInitializing] = useState(true);
